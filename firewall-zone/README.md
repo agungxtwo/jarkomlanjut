@@ -1,5 +1,6 @@
 # Firewall Basic Zone
-Semua konfigurasi sesuai dengan topologi, setiap router memiliki loopback interface:
+
+Semua konfigurasi sesuai dengan topologi, setiap router memiliki loopback interface
     Router LAN: L0: 1.1.1.1 /24
     Router FIREWALL:L0:  2.2.2.2 /24
     Router INTERNET: L0: 3.3.3.3 /24 dan L1: 33.33.33.33 /24
