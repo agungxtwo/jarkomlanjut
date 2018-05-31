@@ -24,3 +24,6 @@ Traffic dari INTERNET ke LAN di block.
 Meningkatkan keamanan dengan hanya mengizinkan hanya HTTP, ICMP dan HTTPS traffic dari LAN ke INTERNET.
 
 Lakukan tes dengan menggunakan telnet router LAN ke router INTERNET, seharusnya akses ini di block.
+
+# IOS Image
+c3725-adventerprisek9-mz.124-15.T7.bin
